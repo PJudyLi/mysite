@@ -1,7 +1,5 @@
-	<!DOCTYPE HTML>
 	
-	<head>
-	<title>XXX - An researcher dedicated to Information Science</title>
+<title>XXX - An researcher dedicated to Information Science</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="assets/css/main.css" />
@@ -10,7 +8,7 @@
 	</head>
 	<body class="is-preload">
 	
-	<!-- Wrapper -->
+<!-- Wrapper -->
 	<div id="wrapper" class="divided">
 	
 	<!-- Intro -->
@@ -565,7 +563,7 @@
 
 	
 	</body>
-	</html>
+
 	
 
 ![image](https://user-images.githubusercontent.com/82975070/236069476-81ba4aa1-b5bf-4e61-80bd-855dcfef1442.png)
