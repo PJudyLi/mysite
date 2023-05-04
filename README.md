@@ -1,5 +1,161 @@
-<html>
-<head>	
+
+<!DOCTYPE html>
+<html lang="en">
+<!-- Beautiful Jekyll 5.0.0 | Copyright -->
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  
+
+  
+
+  <title>Author - consultant</title>
+
+  
+  <meta name="author" content="author name">
+  
+
+  <meta name="description" content="R-Shiny developer and consultant with a MSc in Bioinformatics and a Bachelor of Computer Science. Previously a software engineer at Google, IBM, and Wish.com.">
+
+  
+  <meta name="theme-color" content="#0085A1">
+  
+
+  
+  <meta name="keywords" content="r shiny,r shiny developer,shiny developer,shiny apps,shiny consultant,dashboards r,interactive dashboards">
+  
+
+  
+
+  
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-HKWW77BNTR');
+</script>
+
+
+  
+
+  
+
+  
+
+
+  
+    
+      
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+
+    
+      
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
+
+
+    
+      
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic">
+
+
+    
+      
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800">
+
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/assets/css/bootstrap-social.css">
+    
+      <link rel="stylesheet" href="/assets/css/beautifuljekyll.css">
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/assets/css/custom-styles.css">
+    
+  
+
+  
+  
+  
+    
+      <link rel="stylesheet" href="/assets/css/index.css">
+    
+  
+
+  
+  <meta property="fb:app_id" content="536330676521989">
+  
+
+  
+  <meta property="og:site_name" content="site name">
+  <meta property="og:title" content="author consultant">
+  <meta property="og:description" content="developer.">
+
+  
+  <meta property="og:image" content="https://jpeg">
+  
+
+  
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://">
+  <link rel="canonical" href="https://">
+  
+
+
+</head>
+
+
+<body>
+
+  
+
+
+  <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom top-nav-regular"><a class="navbar-brand" href="https://author.com/">Author</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="main-navbar">
+    <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="/">Blog</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://.com/">Hire me</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/projects">Projects</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/aboutme">About Me / Contact</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://github.com/sponsors/">❤ Support</a>
+          </li></ul>
+  </div>
+
+  
+
+  
+    <div class="avatar-container">
+      <div class="avatar-img-border">
+        <a href="https://.com/">
+          <img alt="Navigation bar avatar" class="avatar-img" src="/assets/img/deaimg.jpeg" />
+        </a>
+      </div>
+    </div>
+  
+
+</nav>
 <title>XXX - An researcher dedicated to Information Science</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
