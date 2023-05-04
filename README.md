@@ -1,27 +1,6 @@
 <!DOCTYPE html>
 <html>
-    <body>
-        <!-- html section tag is used here -->
-        <section>
-            <h1>Geeksforgeeek: Section 1</h1>
-             </section>
-        <section>
-            <h1>GeeksforGeeks: Section 2</h1>
-             
- 
-<p>Content of section 2</p>
- 
- 
-        </section>
-        <section>
-            <h1>GeeksforGeeks: Section 3</h1>
-             <p>Content of section 3</p>
- 
- 
-        </section>
-    </body>
-</html>                   
- 
+   
 <p>Content of section 1</p>
 <head>	
 <title>XXX - An researcher dedicated to Information Science</title>
@@ -38,7 +17,7 @@
 	
 	<!-- Intro -->
 	<section class="banner style3 color11 orient-left content-align-left image-position-right invert fullscreen onload-image-fade-in onload-content-fade-right" id="top">
-	<div class="content">
+<div class="content">
 	<h2>Li - xxx</h2>
 	<p>I am an academic esearcher / Information Professional graduated from
 	<a href="http:utk.edu” target="_blank">School </a>, University of Tennessee Knoxville.</p>
@@ -67,12 +46,13 @@
 	<li><a href="https://www.linkedin.com/in/" target="_blank" class="icon brands style2 fa-linkedin"><span class="label">LinkedIn</span></a></li>
 	<li><a href="mailto:judyli@utk.edu?" class="icon style2 fa-envelope"><span class="label">Email</span></a></li>
 	</ul>
-	</div>
+</div>
 	<div class="image">
 	<img src="images.jpg" alt="" />
 	</div>
 	</section>
-	
+
+
 	<!-- Education -->
 	<section class="spotlight style1 invert orient-right content-align-left image-position-center onscroll-image-fade-in" id="first">
 	<div class="content">
@@ -140,6 +120,34 @@
 	<!-- Pass Works
 	
 	<section>
+	
+
+        <!-- html section tag is used here -->
+        <section>
+            <h1>Geeksforgeeek: Section 1</h1>
+             </section>
+        <section>
+            <h1>GeeksforGeeks: Section 2</h1>
+             
+ 
+<p>Content of section 2</p>
+ 
+ 
+        </section>
+        <section>
+            <h1>GeeksforGeeks: Section 3</h1>
+             <p>Content of section 3</p>
+ 
+ 
+        </section>
+    </body>
+</html>                   	
+	
+	
+	
+	
+	
+	
 	<header>
 	<h3>Past&nbsp Works</h3>
 	</header>
