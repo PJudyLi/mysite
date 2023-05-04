@@ -1,3 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <!-- html section tag is used here -->
+        <section>
+            <h1>Geeksforgeeek: Section 1</h1>
+             </section>
+        <section>
+            <h1>GeeksforGeeks: Section 2</h1>
+             
+ 
+<p>Content of section 2</p>
+ 
+ 
+        </section>
+        <section>
+            <h1>GeeksforGeeks: Section 3</h1>
+             <p>Content of section 3</p>
+ 
+ 
+        </section>
+    </body>
+</html>                   
+ 
+<p>Content of section 1</p>
 <head>	
 <title>XXX - An researcher dedicated to Information Science</title>
 	<meta charset="utf-8" />
