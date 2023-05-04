@@ -1,7 +1,4 @@
-<!DOCTYPE html>
 <html>
-   
-<p>Content of section 1</p>
 <head>	
 <title>XXX - An researcher dedicated to Information Science</title>
 	<meta charset="utf-8" />
